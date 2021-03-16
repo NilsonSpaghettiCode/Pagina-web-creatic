@@ -1,15 +1,22 @@
 body
 {
-    background-color: gray;
+    
 }
 
 .transp{
-    background-color: #E0ECFF; 
+    background-color:ghostwhite; 
 }
 
 .navper
 {
-    background-color: white;
+    
 
 
 }
+
+.refcontent
+{
+    margin-top: 35px;
+
+}
+
