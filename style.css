@@ -1,22 +1,37 @@
-body
-{
-    
-}
 
 .transp{
     background-color:ghostwhite; 
 }
 
-.navper
-{
-    
-
-
-}
-
 .refcontent
 {
     margin-top: 35px;
-
 }
 
+.cardper .card-header
+{
+    height: 610px;
+}
+
+.cardper:hover
+{
+    background-color: aliceblue;
+}
+.nav-item
+{
+    background-color: rgb(243, 243, 243);
+    border: solid 1px rgb(243, 243, 243);
+    margin: 3px;
+    border-radius: 3px;
+}
+
+.nav-item:hover
+{
+    background-color: rgb(234, 239, 241);
+}
+
+.card-text
+{
+    text-align: justify;
+
+}
