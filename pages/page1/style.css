@@ -3,12 +3,15 @@
     text-align: justify;
     font-family: 'Quicksand', sans-serif;
     font-size: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
 
 .imagen
 {
     text-align: center;
     margin: 20px;
+    max-width: 100%;
 }
 
 .pregunta
@@ -30,7 +33,7 @@
 
 img
 {
-max-width: 100%;
+    
 
 }
 
