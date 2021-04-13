@@ -1,0 +1,32 @@
+.parrafo
+{
+    text-align: justify;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+}
+
+.imagen
+{
+    text-align: center;
+    margin: 20px;
+}
+
+.pregunta
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+
+.titulo
+{
+    font-family: 'Quicksand', sans-serif;
+}
+
+.indice
+{
+    font-family: 'Quicksand', sans-serif;
+
+}
+
+
