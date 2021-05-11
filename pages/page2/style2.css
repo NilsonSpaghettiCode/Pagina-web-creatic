@@ -31,19 +31,5 @@
     font-family: 'Quicksand', sans-serif;
 }
 
-img:hover
-{
-    width: 400px;
-}
 
-.lista
-{
-    font-family: 'Quicksand', sans-serif;
-    font-size: 20px;
-}
 
-.backgroundcss{
-    background-image: url("img/4784770.jpg");
-    background-position: center;
-    backdrop-filter: brightness(50%);
-}
