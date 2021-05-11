@@ -20,9 +20,10 @@
 .nav-item
 {
     background-color: rgb(243, 243, 243);
-    border: solid 1px rgb(243, 243, 243);
+    border: solid 1px rgb(243, 243, 243, 0.1);
     margin: 3px;
     border-radius: 3px;
+    
 }
 
 .nav-item:hover
@@ -48,4 +49,19 @@ footer
     background-color: aliceblue;
 }
 
+.nav-link
+{
+    color: white;
+    text-decoration: dashed;
+}
 
+#textst
+{
+    color: white;
+
+}
+
+a
+{
+    color: white;
+}
